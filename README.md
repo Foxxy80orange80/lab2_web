@@ -62,7 +62,7 @@
 
 *-secondLab-1.0-SNAPSHOT.war-название архива со скомпилированными классами 
 
-***Инструкция по запуску лабы на серваке:***
+
 
 
 ![Милый лисенок](https://flyclipart.com/thumb2/silent-fox-on-scratch-342116.png)
